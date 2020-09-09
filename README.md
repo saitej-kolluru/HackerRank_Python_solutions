@@ -1,6 +1,8 @@
 # HackerRank_Python_solutions
 
-List of Challanges in Python from Hackerrank
+List of Challanges in Python from Hackerrank.
+
+#############################################
 Introduction
 Basic Data Types
 Strings
@@ -18,3 +20,4 @@ XML
 Closures and Decorators
 Numpy
 Debugging
+#############################################
